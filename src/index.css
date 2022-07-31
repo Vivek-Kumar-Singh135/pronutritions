@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.header {
+    background-color: rgb(125, 11, 233);
+    color: white;
+    height: 40px;
+    padding: 10px;
+    padding-bottom: 2px;
+}
+
+.search {
+    margin-top: 15px;
+    height: 70px;
+    padding-left: 50px;
+}
+
+.food-item-list {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.food_item_list_box {
+    display: flex;
+}
+
+.item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid rgb(125, 11, 233);
+    background-color: azure;
+    width: 400px;
+    height: 70px;
+    margin-top: 25px;
+}
+
+.food-list {
+    padding-left: 300px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+input {
+    border-color: rgb(125, 11, 233);
+}
+
+button {
+    background-color: rgb(125, 11, 233);
+    color: white;
+    font-weight: bold;
+    border-color: rgb(125, 11, 233);
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.todays-list {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    padding-left: 350px;
+}
