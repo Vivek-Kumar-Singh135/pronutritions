@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2e2cb9a.css",
-    "main.js": "/static/js/main.d672f8fc.js",
-    "static/media/Noodles.jfif": "/static/media/Noodles.efae63284d898eb34245.jfif",
-    "static/media/Dates.jfif": "/static/media/Dates.10f40735b673f4b6fa1a.jfif",
-    "static/media/Apple.jfif": "/static/media/Apple.d5630a769cf5abd4516d.jfif",
-    "static/media/Grapes(1 cup).jfif": "/static/media/Grapes(1 cup).4b046027b0bd7a0fe4eb.jfif",
-    "static/media/Banana.jfif": "/static/media/Banana.2ff5b1922570ea8eb532.jfif",
-    "static/media/Orange.jfif": "/static/media/Orange.2cb0bf14edbb040e3ef6.jfif",
-    "static/media/Chocolate.jfif": "/static/media/Chocolate.b286a67e18c60be48fec.jfif",
-    "index.html": "/index.html",
-    "main.d2e2cb9a.css.map": "/static/css/main.d2e2cb9a.css.map",
-    "main.d672f8fc.js.map": "/static/js/main.d672f8fc.js.map"
+    "main.css": "/pronutritions/static/css/main.d2e2cb9a.css",
+    "main.js": "/pronutritions/static/js/main.a58dd55f.js",
+    "static/media/Noodles.jfif": "/pronutritions/static/media/Noodles.efae63284d898eb34245.jfif",
+    "static/media/Dates.jfif": "/pronutritions/static/media/Dates.10f40735b673f4b6fa1a.jfif",
+    "static/media/Apple.jfif": "/pronutritions/static/media/Apple.d5630a769cf5abd4516d.jfif",
+    "static/media/Grapes(1 cup).jfif": "/pronutritions/static/media/Grapes(1 cup).4b046027b0bd7a0fe4eb.jfif",
+    "static/media/Banana.jfif": "/pronutritions/static/media/Banana.2ff5b1922570ea8eb532.jfif",
+    "static/media/Orange.jfif": "/pronutritions/static/media/Orange.2cb0bf14edbb040e3ef6.jfif",
+    "static/media/Chocolate.jfif": "/pronutritions/static/media/Chocolate.b286a67e18c60be48fec.jfif",
+    "index.html": "/pronutritions/index.html",
+    "main.d2e2cb9a.css.map": "/pronutritions/static/css/main.d2e2cb9a.css.map",
+    "main.a58dd55f.js.map": "/pronutritions/static/js/main.a58dd55f.js.map"
   },
   "entrypoints": [
     "static/css/main.d2e2cb9a.css",
-    "static/js/main.d672f8fc.js"
+    "static/js/main.a58dd55f.js"
   ]
 }
